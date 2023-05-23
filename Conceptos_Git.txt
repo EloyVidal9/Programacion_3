@@ -1,0 +1,9 @@
+Conceptos basicos Git: 
+
+1. Git Clone: Copia un repositorio Git remoto a uno local. 
+2. Git Add: Se utiliza para agregar un archivo al area de trabajo antes de realizar commit. 
+3. Git Commit: Registra los cambios que se han realizado en el repositorio con un mensaje.
+4. Git Status: Muestra el estado del repositorio. 
+5. Git Push: Envia los commits al repositorio remoto. 
+6. Git Pull: Obtiene los ultimos cambios desde el repositorio remoto. 
+7. Git Init: Inicializa un repositorio en una direccion local. 
